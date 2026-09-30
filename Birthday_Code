@@ -1,2 +1,3 @@
 This is where we will include the code that allows the feature of showing what the Hubble telescope took a picture of on specific dates
 Use python for writing the code feature and bridging the data of the Hubble telescope to the website
+Use SQL to connect a database to this website for easy access on what data to show on what date
